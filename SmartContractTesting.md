@@ -11,6 +11,9 @@
 ## Resources
 
 Code Integration: [VS Code](https://github.com/juanfranblanco/vscode-solidity)
+Improvements to VS Code:
+
+- [Fix Import for Open Zeppelin](https://medium.com/coinmonks/solidity-import-in-vs-code-the-right-way-82baa1cc5a71)
 
 [Mike Goldin's Testing Smart Contracts Presentation](https://docs.google.com/presentation/d/1mMC9VkZCVn4L4YKLiWJjInaQEj2lQK-iag3lM7_vGtU/edit#slide=id.p22)
 
