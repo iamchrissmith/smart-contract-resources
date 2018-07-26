@@ -1,0 +1,1 @@
+A simple repo to collect and share resources for writing Ethereum Smart Contracts
