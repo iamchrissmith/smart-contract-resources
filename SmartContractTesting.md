@@ -1,13 +1,3 @@
-# Solidity PR Review Testing Checklist
-
-[ ] Linter - [SolHint](https://github.com/protofire/solhint)
-
-[ ] Test coverage (Sol-Cov)
-
-[ ] Security best practices
-
-[ ] Business Logic check on each PR
-
 ## Resources
 
 Code Integration: [VS Code](https://github.com/juanfranblanco/vscode-solidity)
